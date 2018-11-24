@@ -1,6 +1,10 @@
 # Crafting
 Crafting is a custom built from the ground up plugin designed for the Helix Framework, made by Alex Grist & Impulse for Garry's Mod.
 
+## Credits
+ZeMysticalTaco - Creation of the Plugin
+Website: www.friendlyfireindustries.net
+
 # Documentation
 To use the Crafting plugin, simply drag and drop into your schema's plugins folder, and open up the 'sh_plugin.lua' file to add recipes.
 
