@@ -51,8 +51,8 @@ ITEMS.normal_screwdriver = {
 
 ## Blueprints
 Recipes have an optional argument called 'blueprint' which specifies if the player needs to learn it first. There are two 'charMeta' handles that allow you to give or remove a blueprint from a player, it's up to you to decide on how you want to give or remove a blueprint from someone.
-	char:RemoveBlueprint(blueprint)
-	char:GiveBlueprint(blueprint)
+	```char:RemoveBlueprint(blueprint)
+	char:GiveBlueprint(blueprint)```
 
 ```
 	["metal_downgrade_refined"] = {
